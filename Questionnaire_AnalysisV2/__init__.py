@@ -1,2 +1,2 @@
-from Questionnaire_Analysis.dataFile import dataFile
-from Questionnaire_Analysis.ComparedDataFile import ComparedDataFile
+from Questionnaire_AnalysisV2.dataFile import dataFile
+from Questionnaire_AnalysisV2.ComparedDataFile import ComparedDataFile
