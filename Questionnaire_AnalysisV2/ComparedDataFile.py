@@ -33,7 +33,7 @@ class ComparedDataFile():
     
     def __init__(self, path, path2, link='independant'):
         self.link=link
-        test, ph, au=imp.find_module('Questionnaire_Analyse')
+        test, ph, au=imp.find_module('Questionnaire_AnalysisV2')
         self.to_mod=ph
         # try:         
         #     mega = Mega()
